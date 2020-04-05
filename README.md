@@ -1,3 +1,5 @@
+配置规则
+
 *Good Luck Have Fun*
 
 ## 感谢
